@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cms.contentworkflowstep>
+  <ContentWorkflowStepDisplayName>Cafe manager review</ContentWorkflowStepDisplayName>
+  <ContentWorkflowStepGUID>f7764d43-8288-4777-bbff-c2a4056194be</ContentWorkflowStepGUID>
+  <ContentWorkflowStepIconClass>xp-cup</ContentWorkflowStepIconClass>
+  <ContentWorkflowStepIsNotificationEnabled>True</ContentWorkflowStepIsNotificationEnabled>
+  <ContentWorkflowStepName>DancingGoat.CafeManagerReview</ContentWorkflowStepName>
+  <ContentWorkflowStepOrder>1</ContentWorkflowStepOrder>
+  <ContentWorkflowStepType>3</ContentWorkflowStepType>
+  <ContentWorkflowStepWorkflowID>
+    <CodeName>DancingGoat.EventReview</CodeName>
+    <GUID>f98e5664-b0b8-4830-96f3-8931580f0620</GUID>
+    <ObjectType>cms.contentworkflow</ObjectType>
+  </ContentWorkflowStepWorkflowID>
+</cms.contentworkflowstep>

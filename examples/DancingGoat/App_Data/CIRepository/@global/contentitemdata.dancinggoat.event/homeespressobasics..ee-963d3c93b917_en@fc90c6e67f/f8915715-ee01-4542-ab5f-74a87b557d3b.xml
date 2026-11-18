@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentitemdata.dancinggoat.event>
+  <ContentItemDataCommonDataID>
+    <GUID>615949df-ed16-4709-9cee-963d3c93b917</GUID>
+    <ObjectType>cms.contentitemcommondata</ObjectType>
+    <Parent>
+      <CodeName>HomeEspressoBasics</CodeName>
+      <GUID>f8be3350-a314-4d83-b534-9aa8c47e4b94</GUID>
+      <ObjectType>cms.contentitem</ObjectType>
+    </Parent>
+  </ContentItemDataCommonDataID>
+  <ContentItemDataGUID>f8915715-ee01-4542-ab5f-74a87b557d3b</ContentItemDataGUID>
+  <EventCafe>
+    <![CDATA[[{"Identifier":"9b401e70-fbc7-4d70-b848-19778172e3f1"}]]]>
+  </EventCafe>
+  <EventDate>2027-02-06 15:00:00Z</EventDate>
+  <EventHeroBannerImage>
+    <![CDATA[[{"Identifier":"38546af2-95d1-4852-a232-9dc0c9fb24b5"}]]]>
+  </EventHeroBannerImage>
+  <EventPromoText>
+<![CDATA[
+Got a new espresso machine and not sure where to start? In two hours, you'll learn how to dial in your grind, tamp evenly, and steam silky milk.
+Every guest goes home with a bag of our house espresso blend.
+]]>
+  </EventPromoText>
+  <EventTitle>Home espresso basics</EventTitle>
+</contentitemdata.dancinggoat.event>

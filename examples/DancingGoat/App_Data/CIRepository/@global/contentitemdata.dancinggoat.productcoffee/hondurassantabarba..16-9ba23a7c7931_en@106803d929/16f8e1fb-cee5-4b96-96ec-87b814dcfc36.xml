@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentitemdata.dancinggoat.productcoffee>
+  <ContentItemDataCommonDataID>
+    <GUID>a51125dc-25f5-43b1-9616-9ba23a7c7931</GUID>
+    <ObjectType>cms.contentitemcommondata</ObjectType>
+    <Parent>
+      <CodeName>HondurasSantaBarbara</CodeName>
+      <GUID>ac025b21-b892-47ad-8bac-10bde1b3e4ba</GUID>
+      <ObjectType>cms.contentitem</ObjectType>
+    </Parent>
+  </ContentItemDataCommonDataID>
+  <ContentItemDataGUID>16f8e1fb-cee5-4b96-96ec-87b814dcfc36</ContentItemDataGUID>
+</contentitemdata.dancinggoat.productcoffee>

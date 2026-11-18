@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentitemdata.dancinggoat.articlepage>
+  <ArticlePagePublishDate>2026-06-12 04:00:00Z</ArticlePagePublishDate>
+  <ArticlePageSummary>
+    <![CDATA[Cold brew is slow, forgiving, and hard to mess up. All you need is a jar, coarse coffee, cold water, and a little patience.]]>
+  </ArticlePageSummary>
+  <ArticlePageTeaser>
+    <![CDATA[[{"Identifier":"e07114f8-dd0b-47ed-9cee-1d5c1404835a"}]]]>
+  </ArticlePageTeaser>
+  <ArticlePageText>
+    <![CDATA[<p>Cold brew is the easiest coffee you'll ever make. There's no kettle, no timer, and no fancy gear — just ground coffee, water, and time.</p><h2>What you need</h2><ul><li>100 g of coarsely ground coffee</li><li>1 liter of cold, filtered water</li><li>A large jar and a paper or cloth filter</li></ul><h2>How to make it</h2><p>Stir the coffee into the water, cover the jar, and leave it in the fridge for 16 to 20 hours. Strain it through the filter, and you've got a smooth concentrate that keeps for up to a week.</p><p>Dilute it 1:1 with water or milk and pour it over ice. We like a washed Central American coffee for this — it brings out chocolate and caramel without any bitterness.</p>]]>
+  </ArticlePageText>
+  <ArticleTitle>Cold Brew at Home</ArticleTitle>
+  <ContentItemDataCommonDataID>
+    <GUID>35f49e18-319e-4911-af4f-aaf8cd074f03</GUID>
+    <ObjectType>cms.contentitemcommondata</ObjectType>
+    <Parent>
+      <CodeName>ColdBrewAtHome-mwlh3nra</CodeName>
+      <GUID>67eef137-449c-493a-9dac-9b9e4bc566d2</GUID>
+      <ObjectType>cms.contentitem</ObjectType>
+    </Parent>
+  </ContentItemDataCommonDataID>
+  <ContentItemDataGUID>78fcba2d-fcfe-4974-a0d7-e0e6ecb4fc5a</ContentItemDataGUID>
+</contentitemdata.dancinggoat.articlepage>

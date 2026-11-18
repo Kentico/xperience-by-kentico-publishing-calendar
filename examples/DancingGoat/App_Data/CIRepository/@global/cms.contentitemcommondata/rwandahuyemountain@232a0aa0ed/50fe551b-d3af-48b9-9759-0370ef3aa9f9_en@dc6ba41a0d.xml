@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cms.contentitemcommondata>
+  <ContentItemCommonDataAiProvenance>
+    <![CDATA[{"bf0f2c4d-f21e-4dec-a059-081a0e88d21b":{"AiProvenanceOrigin":"AiGenerated"},"a99007e1-b5d9-4866-af1e-655d48fec350":{"AiProvenanceOrigin":"AiGenerated"}}]]>
+  </ContentItemCommonDataAiProvenance>
+  <ContentItemCommonDataContentItemID>
+    <CodeName>RwandaHuyeMountain</CodeName>
+    <GUID>2506cdf0-41ca-4019-bed6-b7337afd782f</GUID>
+    <ObjectType>cms.contentitem</ObjectType>
+  </ContentItemCommonDataContentItemID>
+  <ContentItemCommonDataContentLanguageID>
+    <CodeName>en</CodeName>
+    <GUID>e4a8fb12-ebc2-45d0-930f-c9fba2780c85</GUID>
+    <ObjectType>cms.contentlanguage</ObjectType>
+  </ContentItemCommonDataContentLanguageID>
+  <ContentItemCommonDataFirstPublishedWhen>2026-11-18 18:40:25Z</ContentItemCommonDataFirstPublishedWhen>
+  <ContentItemCommonDataGUID>50fe551b-d3af-48b9-9759-0370ef3aa9f9</ContentItemCommonDataGUID>
+  <ContentItemCommonDataIsLatest>True</ContentItemCommonDataIsLatest>
+  <ContentItemCommonDataLastPublishedWhen>2026-11-18 18:40:25Z</ContentItemCommonDataLastPublishedWhen>
+  <ContentItemCommonDataVersionStatus>2</ContentItemCommonDataVersionStatus>
+  <ProductFieldCategory>
+    <![CDATA[[{"Identifier":"cfe8a882-9424-4d03-81a6-a941fd559cde"}]]]>
+  </ProductFieldCategory>
+  <ProductFieldDescription>
+    <![CDATA[<p>Red apple, black tea, and a little brown sugar. Huye Mountain is the kind of coffee you can drink all day — juicy enough to keep things interesting, round enough to never wear you out.</p><p>The washing station sits on the slopes above Butare, where more than 1,500 farmers bring their cherries each harvest. It shines as a filter brew and holds up nicely with a splash of milk.</p>]]>
+  </ProductFieldDescription>
+  <ProductFieldImage>
+    <![CDATA[[{"Identifier":"3b4372f2-6ab3-44a7-af83-1a897dd16afd"}]]]>
+  </ProductFieldImage>
+  <ProductFieldName>Rwanda Huye Mountain</ProductFieldName>
+  <ProductFieldPrice>6.2</ProductFieldPrice>
+  <ProductSKUCode>CAF-RWA-HUYE</ProductSKUCode>
+  <ContentItemReferences>
+    <cms.contentitemreference>
+      <ContentItemReferenceGroupGUID>af37d29a-2fc8-4ead-82ef-d5ec6998f910</ContentItemReferenceGroupGUID>
+      <ContentItemReferenceGUID>ccbf9c01-0699-4cac-92e7-8369e1fdcb61</ContentItemReferenceGUID>
+      <ContentItemReferenceSourceCommonDataID>
+        <GUID>50fe551b-d3af-48b9-9759-0370ef3aa9f9</GUID>
+        <ObjectType>cms.contentitemcommondata</ObjectType>
+      </ContentItemReferenceSourceCommonDataID>
+      <ContentItemReferenceTargetItemID>
+        <CodeName>KenyaGakuyuniAA-0g14dt96</CodeName>
+        <GUID>3b4372f2-6ab3-44a7-af83-1a897dd16afd</GUID>
+        <ObjectType>cms.contentitem</ObjectType>
+      </ContentItemReferenceTargetItemID>
+    </cms.contentitemreference>
+  </ContentItemReferences>
+</cms.contentitemcommondata>

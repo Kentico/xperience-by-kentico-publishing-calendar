@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentitemdata.dancinggoat.productcoffee>
+  <ContentItemDataCommonDataID>
+    <GUID>93e2d042-0d57-4aaa-bc69-5d8c32e6ef75</GUID>
+    <ObjectType>cms.contentitemcommondata</ObjectType>
+    <Parent>
+      <CodeName>CostaRicaTarrazuLaPastora</CodeName>
+      <GUID>a38429c5-08f8-4539-a724-144a858dee36</GUID>
+      <ObjectType>cms.contentitem</ObjectType>
+    </Parent>
+  </ContentItemDataCommonDataID>
+  <ContentItemDataGUID>b0d4db05-3ba0-4925-b451-087eb5e07586</ContentItemDataGUID>
+</contentitemdata.dancinggoat.productcoffee>

@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <UserSecretsId>c7e79236-7f67-4297-af71-987e2e6d0f05</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Aspire.Hosting.AppHost" />
+    <PackageReference Include="Aspire.Hosting.Dotnet" />
+    <PackageReference Include="Aspire.Hosting.JavaScript" />
+    <PackageReference Include="Aspire.Hosting.SqlServer" />
+    <PackageReference Include="CommunityToolkit.Aspire.Hosting.MailPit" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <!-- Not a resource (AddDotnetProject runs it by path): keeps DancingGoat in the project graph
+         that dotnet watch hot-reloads in watch mode -->
+    <ProjectReference Include="..\DancingGoat\DancingGoat.csproj" ReferenceOutputAssembly="false" />
+  </ItemGroup>
+
+</Project>

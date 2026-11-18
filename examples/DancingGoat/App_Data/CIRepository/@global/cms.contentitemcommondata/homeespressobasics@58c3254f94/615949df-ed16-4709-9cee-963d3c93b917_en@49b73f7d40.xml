@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cms.contentitemcommondata>
+  <ContentItemCommonDataAiProvenance>
+    <![CDATA[{"1fbd92f4-b509-4374-ab03-e8031fd62a75":{"AiProvenanceOrigin":"AiGenerated"},"895485b8-fcc7-4729-a3a8-213dc002c7e8":{"AiProvenanceOrigin":"AiGenerated"}}]]>
+  </ContentItemCommonDataAiProvenance>
+  <ContentItemCommonDataContentItemID>
+    <CodeName>HomeEspressoBasics</CodeName>
+    <GUID>f8be3350-a314-4d83-b534-9aa8c47e4b94</GUID>
+    <ObjectType>cms.contentitem</ObjectType>
+  </ContentItemCommonDataContentItemID>
+  <ContentItemCommonDataContentLanguageID>
+    <CodeName>en</CodeName>
+    <GUID>e4a8fb12-ebc2-45d0-930f-c9fba2780c85</GUID>
+    <ObjectType>cms.contentlanguage</ObjectType>
+  </ContentItemCommonDataContentLanguageID>
+  <ContentItemCommonDataFirstPublishedWhen>2026-11-18 18:40:51Z</ContentItemCommonDataFirstPublishedWhen>
+  <ContentItemCommonDataGUID>615949df-ed16-4709-9cee-963d3c93b917</ContentItemCommonDataGUID>
+  <ContentItemCommonDataIsLatest>True</ContentItemCommonDataIsLatest>
+  <ContentItemCommonDataLastPublishedWhen>2026-11-18 18:40:51Z</ContentItemCommonDataLastPublishedWhen>
+  <ContentItemCommonDataVersionStatus>2</ContentItemCommonDataVersionStatus>
+  <ContentItemReferences>
+    <cms.contentitemreference>
+      <ContentItemReferenceGroupGUID>0bf8c2b0-092b-46f5-97a4-03279e7aa3be</ContentItemReferenceGroupGUID>
+      <ContentItemReferenceGUID>73229f9c-74cf-470c-ab99-2efb428c03a9</ContentItemReferenceGUID>
+      <ContentItemReferenceSourceCommonDataID>
+        <GUID>615949df-ed16-4709-9cee-963d3c93b917</GUID>
+        <ObjectType>cms.contentitemcommondata</ObjectType>
+      </ContentItemReferenceSourceCommonDataID>
+      <ContentItemReferenceTargetItemID>
+        <CodeName>Events_Battlecreek-coffee-roasters-i22gbC3gFm4-unsplash_50.jpg-h9mzj83x</CodeName>
+        <GUID>38546af2-95d1-4852-a232-9dc0c9fb24b5</GUID>
+        <ObjectType>cms.contentitem</ObjectType>
+      </ContentItemReferenceTargetItemID>
+    </cms.contentitemreference>
+    <cms.contentitemreference>
+      <ContentItemReferenceGroupGUID>869e6371-44dc-4066-b31c-380a11f49fc3</ContentItemReferenceGroupGUID>
+      <ContentItemReferenceGUID>182fbae0-64a6-4f88-addb-43956de3c081</ContentItemReferenceGUID>
+      <ContentItemReferenceSourceCommonDataID>
+        <GUID>615949df-ed16-4709-9cee-963d3c93b917</GUID>
+        <ObjectType>cms.contentitemcommondata</ObjectType>
+      </ContentItemReferenceSourceCommonDataID>
+      <ContentItemReferenceTargetItemID>
+        <CodeName>NewYork-xn4wcoi7</CodeName>
+        <GUID>9b401e70-fbc7-4d70-b848-19778172e3f1</GUID>
+        <ObjectType>cms.contentitem</ObjectType>
+      </ContentItemReferenceTargetItemID>
+    </cms.contentitemreference>
+  </ContentItemReferences>
+</cms.contentitemcommondata>

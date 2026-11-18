@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentitemdata.dancinggoat.testimonial>
+  <ContentItemDataCommonDataID>
+    <GUID>57242a0a-0985-4678-ba53-1276675700de</GUID>
+    <ObjectType>cms.contentitemcommondata</ObjectType>
+    <Parent>
+      <CodeName>DancingGoatTestimonialMarcusLee</CodeName>
+      <GUID>43b770e6-1b8f-4931-b061-391caa42f810</GUID>
+      <ObjectType>cms.contentitem</ObjectType>
+    </Parent>
+  </ContentItemDataCommonDataID>
+  <ContentItemDataGUID>eab538c5-9a27-41ec-9e79-5c68f3b7c080</ContentItemDataGUID>
+  <TestimonialAuthor>Marcus Lee</TestimonialAuthor>
+  <TestimonialAuthorRole>Regular, Chicago</TestimonialAuthorRole>
+  <TestimonialQuote>
+    <![CDATA[I came for the latte art throwdown and left with a bag of the Guji. Now it's my Saturday morning ritual.]]>
+  </TestimonialQuote>
+</contentitemdata.dancinggoat.testimonial>

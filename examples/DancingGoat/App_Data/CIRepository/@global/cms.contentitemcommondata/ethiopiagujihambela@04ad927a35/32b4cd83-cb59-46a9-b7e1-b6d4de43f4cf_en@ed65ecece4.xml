@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cms.contentitemcommondata>
+  <ContentItemCommonDataAiProvenance>
+    <![CDATA[{"bf0f2c4d-f21e-4dec-a059-081a0e88d21b":{"AiProvenanceOrigin":"AiGenerated"},"a99007e1-b5d9-4866-af1e-655d48fec350":{"AiProvenanceOrigin":"AiGenerated"}}]]>
+  </ContentItemCommonDataAiProvenance>
+  <ContentItemCommonDataContentItemID>
+    <CodeName>EthiopiaGujiHambela</CodeName>
+    <GUID>2610c07f-ce42-4e6b-b2cf-c33e2b921b0f</GUID>
+    <ObjectType>cms.contentitem</ObjectType>
+  </ContentItemCommonDataContentItemID>
+  <ContentItemCommonDataContentLanguageID>
+    <CodeName>en</CodeName>
+    <GUID>e4a8fb12-ebc2-45d0-930f-c9fba2780c85</GUID>
+    <ObjectType>cms.contentlanguage</ObjectType>
+  </ContentItemCommonDataContentLanguageID>
+  <ContentItemCommonDataFirstPublishedWhen>2026-11-18 18:40:03Z</ContentItemCommonDataFirstPublishedWhen>
+  <ContentItemCommonDataGUID>32b4cd83-cb59-46a9-b7e1-b6d4de43f4cf</ContentItemCommonDataGUID>
+  <ContentItemCommonDataIsLatest>True</ContentItemCommonDataIsLatest>
+  <ContentItemCommonDataLastPublishedWhen>2026-11-18 18:40:03Z</ContentItemCommonDataLastPublishedWhen>
+  <ContentItemCommonDataVersionStatus>2</ContentItemCommonDataVersionStatus>
+  <ProductFieldCategory>
+    <![CDATA[[{"Identifier":"cfe8a882-9424-4d03-81a6-a941fd559cde"}]]]>
+  </ProductFieldCategory>
+  <ProductFieldDescription>
+    <![CDATA[<p>Bright, floral, and sweet — this washed Guji tastes like a spring morning. Expect jasmine up front, then peach and bergamot, with a clean honey finish that keeps you coming back for another sip.</p><p>Smallholders around Hambela grow it at 2,000 meters and above, and the cool nights slow the cherries down so the sugars build up. Brew it as a pour-over to get the most out of it.</p>]]>
+  </ProductFieldDescription>
+  <ProductFieldImage>
+    <![CDATA[[{"Identifier":"2cecc982-dd1d-43a4-a115-fd17e732ee73"}]]]>
+  </ProductFieldImage>
+  <ProductFieldName>Ethiopia Guji Hambela</ProductFieldName>
+  <ProductFieldPrice>6.9</ProductFieldPrice>
+  <ProductSKUCode>CAF-ETH-GUJI</ProductSKUCode>
+  <ContentItemReferences>
+    <cms.contentitemreference>
+      <ContentItemReferenceGroupGUID>af37d29a-2fc8-4ead-82ef-d5ec6998f910</ContentItemReferenceGroupGUID>
+      <ContentItemReferenceGUID>a586732a-2b13-48cc-bc85-347ce8d16923</ContentItemReferenceGUID>
+      <ContentItemReferenceSourceCommonDataID>
+        <GUID>32b4cd83-cb59-46a9-b7e1-b6d4de43f4cf</GUID>
+        <ObjectType>cms.contentitemcommondata</ObjectType>
+      </ContentItemReferenceSourceCommonDataID>
+      <ContentItemReferenceTargetItemID>
+        <CodeName>EthiopiaYirgacheffe_decaf-6yjsxzc3</CodeName>
+        <GUID>2cecc982-dd1d-43a4-a115-fd17e732ee73</GUID>
+        <ObjectType>cms.contentitem</ObjectType>
+      </ContentItemReferenceTargetItemID>
+    </cms.contentitemreference>
+  </ContentItemReferences>
+</cms.contentitemcommondata>

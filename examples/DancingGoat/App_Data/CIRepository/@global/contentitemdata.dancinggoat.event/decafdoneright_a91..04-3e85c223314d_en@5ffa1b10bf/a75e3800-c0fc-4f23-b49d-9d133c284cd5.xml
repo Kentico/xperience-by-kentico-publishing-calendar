@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentitemdata.dancinggoat.event>
+  <ContentItemDataCommonDataID>
+    <GUID>a911126d-5ec7-4980-9c04-3e85c223314d</GUID>
+    <ObjectType>cms.contentitemcommondata</ObjectType>
+    <Parent>
+      <CodeName>DecafDoneRight</CodeName>
+      <GUID>867c6a32-698e-4a87-9083-1ff6505b898a</GUID>
+      <ObjectType>cms.contentitem</ObjectType>
+    </Parent>
+  </ContentItemDataCommonDataID>
+  <ContentItemDataGUID>a75e3800-c0fc-4f23-b49d-9d133c284cd5</ContentItemDataGUID>
+  <EventCafe>
+    <![CDATA[[{"Identifier":"4c84719d-689e-460e-8cc1-5495c367b249"}]]]>
+  </EventCafe>
+  <EventDate>2027-02-20 20:00:00Z</EventDate>
+  <EventHeroBannerImage>
+    <![CDATA[[{"Identifier":"19aebe45-100a-4807-b5aa-ca7d58d714ea"}]]]>
+  </EventHeroBannerImage>
+  <EventPromoText>
+    <![CDATA[Decaf doesn't have to taste flat. Join us for a side-by-side tasting of Swiss Water and sugarcane decafs, and find out how the process shapes what ends up in your cup.]]>
+  </EventPromoText>
+  <EventTitle>Decaf done right</EventTitle>
+</contentitemdata.dancinggoat.event>

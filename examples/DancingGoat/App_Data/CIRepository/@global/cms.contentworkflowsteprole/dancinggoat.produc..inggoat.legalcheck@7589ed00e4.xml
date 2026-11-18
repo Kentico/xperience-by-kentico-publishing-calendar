@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cms.contentworkflowsteprole>
+  <Parent>
+    <CodeName>DancingGoat.LegalCheck</CodeName>
+    <GUID>be526028-7cc8-46c6-b08f-f35509883fcd</GUID>
+    <ObjectType>cms.contentworkflowstep</ObjectType>
+    <Parent>
+      <CodeName>DancingGoat.ProductCopy</CodeName>
+      <GUID>008a6392-0438-4124-8a58-66872152d1a3</GUID>
+      <ObjectType>cms.contentworkflow</ObjectType>
+    </Parent>
+  </Parent>
+  <Bindings>
+    <Binding id="cms.role_Administrator">
+      <ContentWorkflowStepRoleRoleID>
+        <CodeName>Administrator</CodeName>
+        <GUID>2c98af39-5f89-4639-8451-0b80eb100df8</GUID>
+        <ObjectType>cms.role</ObjectType>
+      </ContentWorkflowStepRoleRoleID>
+    </Binding>
+  </Bindings>
+</cms.contentworkflowsteprole>

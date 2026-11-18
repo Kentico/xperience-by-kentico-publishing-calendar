@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cms.contentitemcommondata>
+  <ContentItemCommonDataAiProvenance>
+    <![CDATA[{"bf0f2c4d-f21e-4dec-a059-081a0e88d21b":{"AiProvenanceOrigin":"AiGenerated"},"a99007e1-b5d9-4866-af1e-655d48fec350":{"AiProvenanceOrigin":"AiGenerated"}}]]>
+  </ContentItemCommonDataAiProvenance>
+  <ContentItemCommonDataContentItemID>
+    <CodeName>CostaRicaTarrazuLaPastora</CodeName>
+    <GUID>a38429c5-08f8-4539-a724-144a858dee36</GUID>
+    <ObjectType>cms.contentitem</ObjectType>
+  </ContentItemCommonDataContentItemID>
+  <ContentItemCommonDataContentLanguageID>
+    <CodeName>en</CodeName>
+    <GUID>e4a8fb12-ebc2-45d0-930f-c9fba2780c85</GUID>
+    <ObjectType>cms.contentlanguage</ObjectType>
+  </ContentItemCommonDataContentLanguageID>
+  <ContentItemCommonDataFirstPublishedWhen>2026-11-18 18:40:25Z</ContentItemCommonDataFirstPublishedWhen>
+  <ContentItemCommonDataGUID>93e2d042-0d57-4aaa-bc69-5d8c32e6ef75</ContentItemCommonDataGUID>
+  <ContentItemCommonDataIsLatest>True</ContentItemCommonDataIsLatest>
+  <ContentItemCommonDataLastPublishedWhen>2026-11-18 18:40:25Z</ContentItemCommonDataLastPublishedWhen>
+  <ContentItemCommonDataVersionStatus>2</ContentItemCommonDataVersionStatus>
+  <ProductFieldCategory>
+    <![CDATA[[{"Identifier":"cfe8a882-9424-4d03-81a6-a941fd559cde"}]]]>
+  </ProductFieldCategory>
+  <ProductFieldDescription>
+    <![CDATA[<p>Milk chocolate, orange zest, and a crisp, clean finish. La Pastora is a classic Tarrazú — balanced, sweet, and easy to love whether you brew it in a French press or pull it as espresso.</p><p>It's grown by a cooperative of family farms in the Los Santos valley, where volcanic soil and steady rain give the beans their bright structure.</p>]]>
+  </ProductFieldDescription>
+  <ProductFieldImage>
+    <![CDATA[[{"Identifier":"0f5743f3-747c-46ee-bba5-f8ba6ba2af03"}]]]>
+  </ProductFieldImage>
+  <ProductFieldName>
+    <![CDATA[Costa Rica Tarrazú La Pastora]]>
+  </ProductFieldName>
+  <ProductFieldPrice>5.9</ProductFieldPrice>
+  <ProductSKUCode>CAF-CRI-PAST</ProductSKUCode>
+  <ContentItemReferences>
+    <cms.contentitemreference>
+      <ContentItemReferenceGroupGUID>af37d29a-2fc8-4ead-82ef-d5ec6998f910</ContentItemReferenceGroupGUID>
+      <ContentItemReferenceGUID>e26a5fe4-0dc6-415a-bfe9-d05aec816465</ContentItemReferenceGUID>
+      <ContentItemReferenceSourceCommonDataID>
+        <GUID>93e2d042-0d57-4aaa-bc69-5d8c32e6ef75</GUID>
+        <ObjectType>cms.contentitemcommondata</ObjectType>
+      </ContentItemReferenceSourceCommonDataID>
+      <ContentItemReferenceTargetItemID>
+        <CodeName>ElSalvadorFincaSanJose-e6u0ux82</CodeName>
+        <GUID>0f5743f3-747c-46ee-bba5-f8ba6ba2af03</GUID>
+        <ObjectType>cms.contentitem</ObjectType>
+      </ContentItemReferenceTargetItemID>
+    </cms.contentitemreference>
+  </ContentItemReferences>
+</cms.contentitemcommondata>

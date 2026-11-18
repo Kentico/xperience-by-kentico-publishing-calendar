@@ -1,0 +1,47 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <AdminOrgName>kentico</AdminOrgName>
+    <Product>Xperience by Kentico Labs: Publishing Calendar administration</Product>
+    <Title>$(Product)</Title>
+    <Description>Adds a publishing calendar application to the Xperience administration that shows scheduled publishing, workflow, and recent content changes across all channels.</Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <!-- Requires that npm run build or npm run build:dev was executed _before_ the .NET build -->
+    <AdminClientPath Include="Client\dist\**" Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+      <ProjectName>xperience-labs-publishing-calendar-admin</ProjectName>
+    </AdminClientPath>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="Client\node_modules\**" />
+    <EmbeddedResource Remove="Client\node_modules\**" />
+    <None Remove="Client\node_modules\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <AssemblyAttribute Include="CMS.AssemblyDiscoverableAttribute"></AssemblyAttribute>
+    <InternalsVisibleTo Include="Kentico.Xperience.Labs.PublishingCalendar.Tests" />
+  </ItemGroup>
+
+  <Target Name="NpmInstall" BeforeTargets="NpmBuildClient" Condition=" '$(Configuration)|$(Platform)' != 'Debug|AnyCPU' ">
+    <Exec Command="npm ci --no-audit --no-fund" WorkingDirectory="$(MSBuildProjectDirectory)\Client" />
+  </Target>
+  <Target Name="NpmBuildClient" BeforeTargets="BeforeBuild" Condition=" '$(Configuration)|$(Platform)' != 'Debug|AnyCPU' ">
+    <Exec Command="npm run build" WorkingDirectory="$(MSBuildProjectDirectory)\Client" />
+
+    <ItemGroup>
+      <AdminClientPath Include="Client\dist\**">
+        <ProjectName>xperience-labs-publishing-calendar-admin</ProjectName>
+      </AdminClientPath>
+    </ItemGroup>
+  </Target>
+
+  <ItemGroup>
+    <FrameworkReference Include="Microsoft.AspNetCore.App" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Kentico.Xperience.Admin" />
+  </ItemGroup>
+</Project>

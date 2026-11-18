@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentitemdata.dancinggoat.cafe>
+  <CafeAdditionalNotes>Partner cafe serving our seasonal single origins.</CafeAdditionalNotes>
+  <CafeCity>Portland</CafeCity>
+  <CafeCountry>USA, Oregon</CafeCountry>
+  <CafeIsCompanyCafe>False</CafeIsCompanyCafe>
+  <CafeName>Portland</CafeName>
+  <CafeOrder>100</CafeOrder>
+  <CafePhone>503-555-0148</CafePhone>
+  <CafePhoto>
+    <![CDATA[[{"Identifier":"8391b316-9628-4790-8034-42e672acc963"}]]]>
+  </CafePhoto>
+  <CafeStreet>1120 SW Alder St</CafeStreet>
+  <CafeZipCode>97205</CafeZipCode>
+  <ContentItemDataCommonDataID>
+    <GUID>879487fe-688a-41d9-9bf4-7481d9c243ce</GUID>
+    <ObjectType>cms.contentitemcommondata</ObjectType>
+    <Parent>
+      <CodeName>Portland</CodeName>
+      <GUID>73f0fb2a-f39b-426d-90d1-e06e41358a6f</GUID>
+      <ObjectType>cms.contentitem</ObjectType>
+    </Parent>
+  </ContentItemDataCommonDataID>
+  <ContentItemDataGUID>86366786-0f8b-47ce-b2e5-df93172b1e80</ContentItemDataGUID>
+</contentitemdata.dancinggoat.cafe>

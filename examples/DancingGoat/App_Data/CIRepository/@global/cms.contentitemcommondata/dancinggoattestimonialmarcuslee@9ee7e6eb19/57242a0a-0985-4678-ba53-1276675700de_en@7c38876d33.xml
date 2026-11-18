@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cms.contentitemcommondata>
+  <ContentItemCommonDataAiProvenance>
+    <![CDATA[{"99467e9c-cc94-410e-bd8b-514fbedabc81":{"AiProvenanceOrigin":"AiGenerated"},"c498a2ec-a964-4ab4-b139-6408895455a7":{"AiProvenanceOrigin":"AiGenerated"},"74e008f2-f0b1-4855-a648-9381af21de44":{"AiProvenanceOrigin":"AiGenerated"}}]]>
+  </ContentItemCommonDataAiProvenance>
+  <ContentItemCommonDataContentItemID>
+    <CodeName>DancingGoatTestimonialMarcusLee</CodeName>
+    <GUID>43b770e6-1b8f-4931-b061-391caa42f810</GUID>
+    <ObjectType>cms.contentitem</ObjectType>
+  </ContentItemCommonDataContentItemID>
+  <ContentItemCommonDataContentLanguageID>
+    <CodeName>en</CodeName>
+    <GUID>e4a8fb12-ebc2-45d0-930f-c9fba2780c85</GUID>
+    <ObjectType>cms.contentlanguage</ObjectType>
+  </ContentItemCommonDataContentLanguageID>
+  <ContentItemCommonDataFirstPublishedWhen>2026-11-18 18:41:41Z</ContentItemCommonDataFirstPublishedWhen>
+  <ContentItemCommonDataGUID>57242a0a-0985-4678-ba53-1276675700de</ContentItemCommonDataGUID>
+  <ContentItemCommonDataIsLatest>True</ContentItemCommonDataIsLatest>
+  <ContentItemCommonDataLastPublishedWhen>2026-11-18 18:41:41Z</ContentItemCommonDataLastPublishedWhen>
+  <ContentItemCommonDataVersionStatus>2</ContentItemCommonDataVersionStatus>
+</cms.contentitemcommondata>

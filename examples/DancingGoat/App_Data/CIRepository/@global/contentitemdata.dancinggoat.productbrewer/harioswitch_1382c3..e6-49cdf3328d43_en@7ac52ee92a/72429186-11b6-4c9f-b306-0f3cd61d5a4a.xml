@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentitemdata.dancinggoat.productbrewer>
+  <ContentItemDataCommonDataID>
+    <GUID>1382c33a-af20-42ff-82e6-49cdf3328d43</GUID>
+    <ObjectType>cms.contentitemcommondata</ObjectType>
+    <Parent>
+      <CodeName>HarioSwitch</CodeName>
+      <GUID>02d37457-6d79-478e-a01b-3f09f0cdf306</GUID>
+      <ObjectType>cms.contentitem</ObjectType>
+    </Parent>
+  </ContentItemDataCommonDataID>
+  <ContentItemDataGUID>72429186-11b6-4c9f-b306-0f3cd61d5a4a</ContentItemDataGUID>
+</contentitemdata.dancinggoat.productbrewer>

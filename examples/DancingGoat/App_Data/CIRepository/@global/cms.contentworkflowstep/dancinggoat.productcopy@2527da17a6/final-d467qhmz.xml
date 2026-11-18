@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cms.contentworkflowstep>
+  <ContentWorkflowStepDisplayName>Final</ContentWorkflowStepDisplayName>
+  <ContentWorkflowStepGUID>2cbf3dd8-a037-4504-9e3c-db5e1ce90034</ContentWorkflowStepGUID>
+  <ContentWorkflowStepIconClass />
+  <ContentWorkflowStepIsNotificationEnabled>False</ContentWorkflowStepIsNotificationEnabled>
+  <ContentWorkflowStepName>Final-d467qhmz</ContentWorkflowStepName>
+  <ContentWorkflowStepOrder>100</ContentWorkflowStepOrder>
+  <ContentWorkflowStepType>4</ContentWorkflowStepType>
+  <ContentWorkflowStepWorkflowID>
+    <CodeName>DancingGoat.ProductCopy</CodeName>
+    <GUID>008a6392-0438-4124-8a58-66872152d1a3</GUID>
+    <ObjectType>cms.contentworkflow</ObjectType>
+  </ContentWorkflowStepWorkflowID>
+</cms.contentworkflowstep>

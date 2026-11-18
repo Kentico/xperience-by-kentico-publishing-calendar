@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cms.contentitemcommondata>
+  <ContentItemCommonDataAiProvenance>
+    <![CDATA[{"1fbd92f4-b509-4374-ab03-e8031fd62a75":{"AiProvenanceOrigin":"AiGenerated"},"895485b8-fcc7-4729-a3a8-213dc002c7e8":{"AiProvenanceOrigin":"AiGenerated"}}]]>
+  </ContentItemCommonDataAiProvenance>
+  <ContentItemCommonDataContentItemID>
+    <CodeName>DecafDoneRight</CodeName>
+    <GUID>867c6a32-698e-4a87-9083-1ff6505b898a</GUID>
+    <ObjectType>cms.contentitem</ObjectType>
+  </ContentItemCommonDataContentItemID>
+  <ContentItemCommonDataContentLanguageID>
+    <CodeName>en</CodeName>
+    <GUID>e4a8fb12-ebc2-45d0-930f-c9fba2780c85</GUID>
+    <ObjectType>cms.contentlanguage</ObjectType>
+  </ContentItemCommonDataContentLanguageID>
+  <ContentItemCommonDataFirstPublishedWhen>2026-11-18 18:40:51Z</ContentItemCommonDataFirstPublishedWhen>
+  <ContentItemCommonDataGUID>a911126d-5ec7-4980-9c04-3e85c223314d</ContentItemCommonDataGUID>
+  <ContentItemCommonDataIsLatest>True</ContentItemCommonDataIsLatest>
+  <ContentItemCommonDataLastPublishedWhen>2026-11-18 18:40:51Z</ContentItemCommonDataLastPublishedWhen>
+  <ContentItemCommonDataVersionStatus>2</ContentItemCommonDataVersionStatus>
+  <ContentItemReferences>
+    <cms.contentitemreference>
+      <ContentItemReferenceGroupGUID>0bf8c2b0-092b-46f5-97a4-03279e7aa3be</ContentItemReferenceGroupGUID>
+      <ContentItemReferenceGUID>c964bf22-9163-44f0-8aa1-e68678760ae5</ContentItemReferenceGUID>
+      <ContentItemReferenceSourceCommonDataID>
+        <GUID>a911126d-5ec7-4980-9c04-3e85c223314d</GUID>
+        <ObjectType>cms.contentitemcommondata</ObjectType>
+      </ContentItemReferenceSourceCommonDataID>
+      <ContentItemReferenceTargetItemID>
+        <CodeName>Events_Francesco-la-corte-YtGOTady1a4-unsplash_50.jpg-g3jt4j8f</CodeName>
+        <GUID>19aebe45-100a-4807-b5aa-ca7d58d714ea</GUID>
+        <ObjectType>cms.contentitem</ObjectType>
+      </ContentItemReferenceTargetItemID>
+    </cms.contentitemreference>
+    <cms.contentitemreference>
+      <ContentItemReferenceGroupGUID>869e6371-44dc-4066-b31c-380a11f49fc3</ContentItemReferenceGroupGUID>
+      <ContentItemReferenceGUID>83c99472-326d-4fe0-989a-91dd695e0065</ContentItemReferenceGUID>
+      <ContentItemReferenceSourceCommonDataID>
+        <GUID>a911126d-5ec7-4980-9c04-3e85c223314d</GUID>
+        <ObjectType>cms.contentitemcommondata</ObjectType>
+      </ContentItemReferenceSourceCommonDataID>
+      <ContentItemReferenceTargetItemID>
+        <CodeName>BostonCoffeePlace-034jwdxo</CodeName>
+        <GUID>4c84719d-689e-460e-8cc1-5495c367b249</GUID>
+        <ObjectType>cms.contentitem</ObjectType>
+      </ContentItemReferenceTargetItemID>
+    </cms.contentitemreference>
+  </ContentItemReferences>
+</cms.contentitemcommondata>

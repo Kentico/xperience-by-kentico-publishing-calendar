@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cms.contentitemcommondata>
+  <ContentItemCommonDataAiProvenance>
+    <![CDATA[{"99467e9c-cc94-410e-bd8b-514fbedabc81":{"AiProvenanceOrigin":"AiGenerated"},"c498a2ec-a964-4ab4-b139-6408895455a7":{"AiProvenanceOrigin":"AiGenerated"},"74e008f2-f0b1-4855-a648-9381af21de44":{"AiProvenanceOrigin":"AiGenerated"}}]]>
+  </ContentItemCommonDataAiProvenance>
+  <ContentItemCommonDataContentItemID>
+    <CodeName>DancingGoatTestimonialPriyaNair</CodeName>
+    <GUID>7c4b4870-6426-48b6-8f8b-606265de9f0d</GUID>
+    <ObjectType>cms.contentitem</ObjectType>
+  </ContentItemCommonDataContentItemID>
+  <ContentItemCommonDataContentLanguageID>
+    <CodeName>en</CodeName>
+    <GUID>e4a8fb12-ebc2-45d0-930f-c9fba2780c85</GUID>
+    <ObjectType>cms.contentlanguage</ObjectType>
+  </ContentItemCommonDataContentLanguageID>
+  <ContentItemCommonDataFirstPublishedWhen>2026-11-18 18:41:41Z</ContentItemCommonDataFirstPublishedWhen>
+  <ContentItemCommonDataGUID>6f272b25-46b3-4c38-8cc7-f2717141f46f</ContentItemCommonDataGUID>
+  <ContentItemCommonDataIsLatest>True</ContentItemCommonDataIsLatest>
+  <ContentItemCommonDataLastPublishedWhen>2026-11-18 18:41:41Z</ContentItemCommonDataLastPublishedWhen>
+  <ContentItemCommonDataVersionStatus>2</ContentItemCommonDataVersionStatus>
+</cms.contentitemcommondata>

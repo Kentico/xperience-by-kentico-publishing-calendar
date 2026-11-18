@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentitemdata.dancinggoat.event>
+  <ContentItemDataCommonDataID>
+    <GUID>de48b27d-d7e0-484a-ab24-7d7b4be8e598</GUID>
+    <ObjectType>cms.contentitemcommondata</ObjectType>
+    <Parent>
+      <CodeName>LatteArtThrowdown</CodeName>
+      <GUID>2091d161-e1ad-4c93-97c7-107f84e92521</GUID>
+      <ObjectType>cms.contentitem</ObjectType>
+    </Parent>
+  </ContentItemDataCommonDataID>
+  <ContentItemDataGUID>4cf65eec-1a98-4ee0-bf8d-146631c3e467</ContentItemDataGUID>
+  <EventCafe>
+    <![CDATA[[{"Identifier":"5f5c9fce-d24e-4cda-8022-d20d6504b102"}]]]>
+  </EventCafe>
+  <EventDate>2027-01-23 23:00:00Z</EventDate>
+  <EventHeroBannerImage>
+    <![CDATA[[{"Identifier":"b971d8d3-6d3a-4cdd-a129-41b61e0522d5"}]]]>
+  </EventHeroBannerImage>
+  <EventPromoText>
+<![CDATA[
+Hearts, tulips, rosettas — bring your best pour. Baristas and home brewers go head to head on our bar, and the crowd picks the winner.
+No experience needed: our team runs a quick warm-up session before the first round.
+]]>
+  </EventPromoText>
+  <EventTitle>Latte art throwdown</EventTitle>
+</contentitemdata.dancinggoat.event>

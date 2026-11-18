@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cms.contentworkflowstep>
+  <ContentWorkflowStepDisplayName>Copy edit</ContentWorkflowStepDisplayName>
+  <ContentWorkflowStepGUID>829efd0a-9404-437f-9295-54075c27da87</ContentWorkflowStepGUID>
+  <ContentWorkflowStepIconClass>xp-edit</ContentWorkflowStepIconClass>
+  <ContentWorkflowStepIsNotificationEnabled>True</ContentWorkflowStepIsNotificationEnabled>
+  <ContentWorkflowStepName>DancingGoat.CopyEdit</ContentWorkflowStepName>
+  <ContentWorkflowStepOrder>1</ContentWorkflowStepOrder>
+  <ContentWorkflowStepType>3</ContentWorkflowStepType>
+  <ContentWorkflowStepWorkflowID>
+    <CodeName>DancingGoat.ProductCopy</CodeName>
+    <GUID>008a6392-0438-4124-8a58-66872152d1a3</GUID>
+    <ObjectType>cms.contentworkflow</ObjectType>
+  </ContentWorkflowStepWorkflowID>
+</cms.contentworkflowstep>

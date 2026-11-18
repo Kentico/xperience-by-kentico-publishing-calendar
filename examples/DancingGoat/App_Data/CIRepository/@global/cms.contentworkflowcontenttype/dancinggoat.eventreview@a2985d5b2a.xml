@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cms.contentworkflowcontenttype>
+  <Parent>
+    <CodeName>DancingGoat.EventReview</CodeName>
+    <GUID>f98e5664-b0b8-4830-96f3-8931580f0620</GUID>
+    <ObjectType>cms.contentworkflow</ObjectType>
+  </Parent>
+  <Bindings>
+    <Binding id="cms.contenttype_DancingGoat.Cafe">
+      <ContentWorkflowContentTypeContentTypeID>
+        <CodeName>DancingGoat.Cafe</CodeName>
+        <GUID>2f06d20b-3357-48e6-b0f8-2ca7ef737237</GUID>
+        <ObjectType>cms.contenttype</ObjectType>
+      </ContentWorkflowContentTypeContentTypeID>
+    </Binding>
+    <Binding id="cms.contenttype_DancingGoat.Event">
+      <ContentWorkflowContentTypeContentTypeID>
+        <CodeName>DancingGoat.Event</CodeName>
+        <GUID>1f61cca9-7551-4634-82ed-dfb4e4db8c0e</GUID>
+        <ObjectType>cms.contenttype</ObjectType>
+      </ContentWorkflowContentTypeContentTypeID>
+    </Binding>
+  </Bindings>
+</cms.contentworkflowcontenttype>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cms.contentworkflow>
+  <ContentWorkflowDisplayName>Event review</ContentWorkflowDisplayName>
+  <ContentWorkflowGUID>f98e5664-b0b8-4830-96f3-8931580f0620</ContentWorkflowGUID>
+  <ContentWorkflowName>DancingGoat.EventReview</ContentWorkflowName>
+</cms.contentworkflow>

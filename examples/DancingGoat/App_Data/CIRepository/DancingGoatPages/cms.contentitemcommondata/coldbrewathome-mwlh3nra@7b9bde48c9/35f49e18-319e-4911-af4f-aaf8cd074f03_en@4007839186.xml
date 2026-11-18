@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cms.contentitemcommondata>
+  <ContentItemCommonDataAiProvenance>
+    <![CDATA[{"68c7c94e-3d90-474e-9ac7-7d542fa09bc2":{"AiProvenanceOrigin":"AiGenerated"},"e8556390-9fce-4547-ad25-2af8aeface36":{"AiProvenanceOrigin":"AiGenerated"},"f6fc7302-2650-4d07-96a3-9b2c04352bd8":{"AiProvenanceOrigin":"AiGenerated"},"60b37ef3-d909-45d4-b5d1-fd27d9258396":{"AiProvenanceOrigin":"AiGenerated"},"ec3e6220-9a88-47be-8dfc-d8ebceaabe74":{"AiProvenanceOrigin":"AiGenerated"}}]]>
+  </ContentItemCommonDataAiProvenance>
+  <ContentItemCommonDataContentItemID>
+    <CodeName>ColdBrewAtHome-mwlh3nra</CodeName>
+    <GUID>67eef137-449c-493a-9dac-9b9e4bc566d2</GUID>
+    <ObjectType>cms.contentitem</ObjectType>
+  </ContentItemCommonDataContentItemID>
+  <ContentItemCommonDataContentLanguageID>
+    <CodeName>en</CodeName>
+    <GUID>e4a8fb12-ebc2-45d0-930f-c9fba2780c85</GUID>
+    <ObjectType>cms.contentlanguage</ObjectType>
+  </ContentItemCommonDataContentLanguageID>
+  <ContentItemCommonDataFirstPublishedWhen>2026-11-18 18:41:02Z</ContentItemCommonDataFirstPublishedWhen>
+  <ContentItemCommonDataGUID>35f49e18-319e-4911-af4f-aaf8cd074f03</ContentItemCommonDataGUID>
+  <ContentItemCommonDataIsLatest>True</ContentItemCommonDataIsLatest>
+  <ContentItemCommonDataLastPublishedWhen>2026-11-18 18:41:02Z</ContentItemCommonDataLastPublishedWhen>
+  <ContentItemCommonDataVersionStatus>2</ContentItemCommonDataVersionStatus>
+  <ContentItemCommonDataVisualBuilderTemplateConfiguration>
+<![CDATA[
+{
+  "identifier": "DancingGoat.Article",
+  "properties": null,
+  "fieldIdentifiers": null
+}
+]]>
+  </ContentItemCommonDataVisualBuilderTemplateConfiguration>
+  <SEOFieldsDescription>
+    <![CDATA[A simple, forgiving cold brew recipe you can make with a jar, coarse coffee, and cold water.]]>
+  </SEOFieldsDescription>
+  <SEOFieldsNoIndex>False</SEOFieldsNoIndex>
+  <SEOFieldsTitle>Cold Brew at Home - Dancing Goat</SEOFieldsTitle>
+  <ContentItemReferences>
+    <cms.contentitemreference>
+      <ContentItemReferenceGroupGUID>04b5735c-f3b6-4dba-af49-1c748e952820</ContentItemReferenceGroupGUID>
+      <ContentItemReferenceGUID>ef98f694-4bd3-47dd-9dfe-3c0576d4d25b</ContentItemReferenceGUID>
+      <ContentItemReferenceSourceCommonDataID>
+        <GUID>35f49e18-319e-4911-af4f-aaf8cd074f03</GUID>
+        <ObjectType>cms.contentitemcommondata</ObjectType>
+      </ContentItemReferenceSourceCommonDataID>
+      <ContentItemReferenceTargetItemID>
+        <CodeName>Articles_Article-5_2x.jpg-ui1p5uwa</CodeName>
+        <GUID>e07114f8-dd0b-47ed-9cee-1d5c1404835a</GUID>
+        <ObjectType>cms.contentitem</ObjectType>
+      </ContentItemReferenceTargetItemID>
+    </cms.contentitemreference>
+  </ContentItemReferences>
+</cms.contentitemcommondata>

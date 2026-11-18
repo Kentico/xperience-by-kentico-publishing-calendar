@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentitemdata.dancinggoat.productcoffee>
+  <ContentItemDataCommonDataID>
+    <GUID>32b4cd83-cb59-46a9-b7e1-b6d4de43f4cf</GUID>
+    <ObjectType>cms.contentitemcommondata</ObjectType>
+    <Parent>
+      <CodeName>EthiopiaGujiHambela</CodeName>
+      <GUID>2610c07f-ce42-4e6b-b2cf-c33e2b921b0f</GUID>
+      <ObjectType>cms.contentitem</ObjectType>
+    </Parent>
+  </ContentItemDataCommonDataID>
+  <ContentItemDataGUID>40c27bdc-cf81-41bb-b163-c807a655abdb</ContentItemDataGUID>
+</contentitemdata.dancinggoat.productcoffee>

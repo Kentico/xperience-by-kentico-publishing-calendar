@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentitemdata.dancinggoat.productcoffee>
+  <ContentItemDataCommonDataID>
+    <GUID>50fe551b-d3af-48b9-9759-0370ef3aa9f9</GUID>
+    <ObjectType>cms.contentitemcommondata</ObjectType>
+    <Parent>
+      <CodeName>RwandaHuyeMountain</CodeName>
+      <GUID>2506cdf0-41ca-4019-bed6-b7337afd782f</GUID>
+      <ObjectType>cms.contentitem</ObjectType>
+    </Parent>
+  </ContentItemDataCommonDataID>
+  <ContentItemDataGUID>5cdb463c-a67f-46f4-9344-fc9d7796c587</ContentItemDataGUID>
+</contentitemdata.dancinggoat.productcoffee>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentitemdata.dancinggoat.testimonial>
+  <ContentItemDataCommonDataID>
+    <GUID>6f272b25-46b3-4c38-8cc7-f2717141f46f</GUID>
+    <ObjectType>cms.contentitemcommondata</ObjectType>
+    <Parent>
+      <CodeName>DancingGoatTestimonialPriyaNair</CodeName>
+      <GUID>7c4b4870-6426-48b6-8f8b-606265de9f0d</GUID>
+      <ObjectType>cms.contentitem</ObjectType>
+    </Parent>
+  </ContentItemDataCommonDataID>
+  <ContentItemDataGUID>ebeaff58-8f2f-48fb-9f24-ba07e1e6a05c</ContentItemDataGUID>
+  <TestimonialAuthor>Priya Nair</TestimonialAuthor>
+  <TestimonialAuthorRole>Home barista, New York</TestimonialAuthorRole>
+  <TestimonialQuote>
+    <![CDATA[The home espresso class finally got my shots tasting right. Clear, friendly, and no coffee snobbery.]]>
+  </TestimonialQuote>
+</contentitemdata.dancinggoat.testimonial>

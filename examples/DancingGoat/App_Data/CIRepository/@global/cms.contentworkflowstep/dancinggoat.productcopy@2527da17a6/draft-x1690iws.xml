@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cms.contentworkflowstep>
+  <ContentWorkflowStepDisplayName>Draft</ContentWorkflowStepDisplayName>
+  <ContentWorkflowStepGUID>996aa8f4-d964-497c-af56-377194b97ad9</ContentWorkflowStepGUID>
+  <ContentWorkflowStepIconClass />
+  <ContentWorkflowStepIsNotificationEnabled>False</ContentWorkflowStepIsNotificationEnabled>
+  <ContentWorkflowStepName>Draft-x1690iws</ContentWorkflowStepName>
+  <ContentWorkflowStepOrder>0</ContentWorkflowStepOrder>
+  <ContentWorkflowStepType>1</ContentWorkflowStepType>
+  <ContentWorkflowStepWorkflowID>
+    <CodeName>DancingGoat.ProductCopy</CodeName>
+    <GUID>008a6392-0438-4124-8a58-66872152d1a3</GUID>
+    <ObjectType>cms.contentworkflow</ObjectType>
+  </ContentWorkflowStepWorkflowID>
+</cms.contentworkflowstep>

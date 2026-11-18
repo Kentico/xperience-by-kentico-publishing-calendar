@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cms.contentitemcommondata>
+  <ContentItemCommonDataAiProvenance>
+    <![CDATA[{"d031d074-adbf-4ab4-a4ae-8bdfd5611fb2":{"AiProvenanceOrigin":"AiGenerated"},"db0a468c-b650-4d66-adff-636f09a381f3":{"AiProvenanceOrigin":"AiGenerated"},"8af53b47-d1b3-4785-8492-19f323c24eda":{"AiProvenanceOrigin":"AiGenerated"},"c61a8539-3b61-4349-8e05-b7ff4b2950e8":{"AiProvenanceOrigin":"AiGenerated"},"f03adfab-ffd9-42cf-9016-4baad529631c":{"AiProvenanceOrigin":"AiGenerated"},"03df11ad-8b54-47bb-a436-5de8b83f06c5":{"AiProvenanceOrigin":"AiGenerated"},"632a4ab7-10d3-49c7-a465-e16b6dc453e7":{"AiProvenanceOrigin":"AiGenerated"}}]]>
+  </ContentItemCommonDataAiProvenance>
+  <ContentItemCommonDataContentItemID>
+    <CodeName>Portland</CodeName>
+    <GUID>73f0fb2a-f39b-426d-90d1-e06e41358a6f</GUID>
+    <ObjectType>cms.contentitem</ObjectType>
+  </ContentItemCommonDataContentItemID>
+  <ContentItemCommonDataContentLanguageID>
+    <CodeName>en</CodeName>
+    <GUID>e4a8fb12-ebc2-45d0-930f-c9fba2780c85</GUID>
+    <ObjectType>cms.contentlanguage</ObjectType>
+  </ContentItemCommonDataContentLanguageID>
+  <ContentItemCommonDataFirstPublishedWhen>2026-11-18 18:40:51Z</ContentItemCommonDataFirstPublishedWhen>
+  <ContentItemCommonDataGUID>879487fe-688a-41d9-9bf4-7481d9c243ce</ContentItemCommonDataGUID>
+  <ContentItemCommonDataIsLatest>True</ContentItemCommonDataIsLatest>
+  <ContentItemCommonDataLastPublishedWhen>2026-11-18 18:40:51Z</ContentItemCommonDataLastPublishedWhen>
+  <ContentItemCommonDataVersionStatus>2</ContentItemCommonDataVersionStatus>
+  <ContentItemReferences>
+    <cms.contentitemreference>
+      <ContentItemReferenceGroupGUID>1e4c0c62-4056-4acd-ac2e-d96ba01adff7</ContentItemReferenceGroupGUID>
+      <ContentItemReferenceGUID>e1275e58-b557-4304-ac52-1a981604fe28</ContentItemReferenceGUID>
+      <ContentItemReferenceSourceCommonDataID>
+        <GUID>879487fe-688a-41d9-9bf4-7481d9c243ce</GUID>
+        <ObjectType>cms.contentitemcommondata</ObjectType>
+      </ContentItemReferenceSourceCommonDataID>
+      <ContentItemReferenceTargetItemID>
+        <CodeName>Banners_CafeBar</CodeName>
+        <GUID>8391b316-9628-4790-8034-42e672acc963</GUID>
+        <ObjectType>cms.contentitem</ObjectType>
+      </ContentItemReferenceTargetItemID>
+    </cms.contentitemreference>
+  </ContentItemReferences>
+</cms.contentitemcommondata>

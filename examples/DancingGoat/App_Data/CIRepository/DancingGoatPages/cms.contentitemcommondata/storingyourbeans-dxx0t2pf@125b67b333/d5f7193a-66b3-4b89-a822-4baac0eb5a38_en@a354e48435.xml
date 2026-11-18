@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cms.contentitemcommondata>
+  <ContentItemCommonDataAiProvenance>
+    <![CDATA[{"68c7c94e-3d90-474e-9ac7-7d542fa09bc2":{"AiProvenanceOrigin":"AiGenerated"},"e8556390-9fce-4547-ad25-2af8aeface36":{"AiProvenanceOrigin":"AiGenerated"},"f6fc7302-2650-4d07-96a3-9b2c04352bd8":{"AiProvenanceOrigin":"AiGenerated"},"60b37ef3-d909-45d4-b5d1-fd27d9258396":{"AiProvenanceOrigin":"AiGenerated"},"ec3e6220-9a88-47be-8dfc-d8ebceaabe74":{"AiProvenanceOrigin":"AiGenerated"}}]]>
+  </ContentItemCommonDataAiProvenance>
+  <ContentItemCommonDataContentItemID>
+    <CodeName>StoringYourBeans-dxx0t2pf</CodeName>
+    <GUID>fa445030-8fbc-443b-89f1-9e71c03bd4b2</GUID>
+    <ObjectType>cms.contentitem</ObjectType>
+  </ContentItemCommonDataContentItemID>
+  <ContentItemCommonDataContentLanguageID>
+    <CodeName>en</CodeName>
+    <GUID>e4a8fb12-ebc2-45d0-930f-c9fba2780c85</GUID>
+    <ObjectType>cms.contentlanguage</ObjectType>
+  </ContentItemCommonDataContentLanguageID>
+  <ContentItemCommonDataFirstPublishedWhen>2026-11-18 18:41:31Z</ContentItemCommonDataFirstPublishedWhen>
+  <ContentItemCommonDataGUID>d5f7193a-66b3-4b89-a822-4baac0eb5a38</ContentItemCommonDataGUID>
+  <ContentItemCommonDataIsLatest>True</ContentItemCommonDataIsLatest>
+  <ContentItemCommonDataLastPublishedWhen>2026-11-18 18:41:31Z</ContentItemCommonDataLastPublishedWhen>
+  <ContentItemCommonDataVersionStatus>2</ContentItemCommonDataVersionStatus>
+  <ContentItemCommonDataVisualBuilderTemplateConfiguration>
+<![CDATA[
+{
+  "identifier": "DancingGoat.Article",
+  "properties": null,
+  "fieldIdentifiers": null
+}
+]]>
+  </ContentItemCommonDataVisualBuilderTemplateConfiguration>
+  <SEOFieldsDescription>
+    <![CDATA[Keep coffee fresh for longer: the simple rules for storing roasted beans at home.]]>
+  </SEOFieldsDescription>
+  <SEOFieldsNoIndex>False</SEOFieldsNoIndex>
+  <SEOFieldsTitle>Storing Your Beans - Dancing Goat</SEOFieldsTitle>
+  <ContentItemReferences>
+    <cms.contentitemreference>
+      <ContentItemReferenceGroupGUID>04b5735c-f3b6-4dba-af49-1c748e952820</ContentItemReferenceGroupGUID>
+      <ContentItemReferenceGUID>6af5e1b6-d4f2-4b9f-abc1-c340bfc12f00</ContentItemReferenceGUID>
+      <ContentItemReferenceSourceCommonDataID>
+        <GUID>d5f7193a-66b3-4b89-a822-4baac0eb5a38</GUID>
+        <ObjectType>cms.contentitemcommondata</ObjectType>
+      </ContentItemReferenceSourceCommonDataID>
+      <ContentItemReferenceTargetItemID>
+        <CodeName>Graphics_Hero-bg3.jpg-4dz6obv8</CodeName>
+        <GUID>8a528627-fc98-46a4-9b2f-c56b270e86c5</GUID>
+        <ObjectType>cms.contentitem</ObjectType>
+      </ContentItemReferenceTargetItemID>
+    </cms.contentitemreference>
+  </ContentItemReferences>
+</cms.contentitemcommondata>

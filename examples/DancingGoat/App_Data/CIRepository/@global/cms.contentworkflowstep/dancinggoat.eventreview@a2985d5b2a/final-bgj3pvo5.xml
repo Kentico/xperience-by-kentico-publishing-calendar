@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cms.contentworkflowstep>
+  <ContentWorkflowStepDisplayName>Final</ContentWorkflowStepDisplayName>
+  <ContentWorkflowStepGUID>b6900e3f-338c-4d9b-8ba3-bb369a8e9e51</ContentWorkflowStepGUID>
+  <ContentWorkflowStepIconClass />
+  <ContentWorkflowStepIsNotificationEnabled>False</ContentWorkflowStepIsNotificationEnabled>
+  <ContentWorkflowStepName>Final-bgj3pvo5</ContentWorkflowStepName>
+  <ContentWorkflowStepOrder>100</ContentWorkflowStepOrder>
+  <ContentWorkflowStepType>4</ContentWorkflowStepType>
+  <ContentWorkflowStepWorkflowID>
+    <CodeName>DancingGoat.EventReview</CodeName>
+    <GUID>f98e5664-b0b8-4830-96f3-8931580f0620</GUID>
+    <ObjectType>cms.contentworkflow</ObjectType>
+  </ContentWorkflowStepWorkflowID>
+</cms.contentworkflowstep>

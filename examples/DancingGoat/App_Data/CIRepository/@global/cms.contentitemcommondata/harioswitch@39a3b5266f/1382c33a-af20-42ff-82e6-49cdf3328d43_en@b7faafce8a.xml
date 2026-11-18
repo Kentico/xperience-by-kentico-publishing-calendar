@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cms.contentitemcommondata>
+  <ContentItemCommonDataAiProvenance>
+    <![CDATA[{"bf0f2c4d-f21e-4dec-a059-081a0e88d21b":{"AiProvenanceOrigin":"AiGenerated"},"a99007e1-b5d9-4866-af1e-655d48fec350":{"AiProvenanceOrigin":"AiGenerated"}}]]>
+  </ContentItemCommonDataAiProvenance>
+  <ContentItemCommonDataContentItemID>
+    <CodeName>HarioSwitch</CodeName>
+    <GUID>02d37457-6d79-478e-a01b-3f09f0cdf306</GUID>
+    <ObjectType>cms.contentitem</ObjectType>
+  </ContentItemCommonDataContentItemID>
+  <ContentItemCommonDataContentLanguageID>
+    <CodeName>en</CodeName>
+    <GUID>e4a8fb12-ebc2-45d0-930f-c9fba2780c85</GUID>
+    <ObjectType>cms.contentlanguage</ObjectType>
+  </ContentItemCommonDataContentLanguageID>
+  <ContentItemCommonDataFirstPublishedWhen>2026-11-18 18:40:31Z</ContentItemCommonDataFirstPublishedWhen>
+  <ContentItemCommonDataGUID>1382c33a-af20-42ff-82e6-49cdf3328d43</ContentItemCommonDataGUID>
+  <ContentItemCommonDataIsLatest>True</ContentItemCommonDataIsLatest>
+  <ContentItemCommonDataLastPublishedWhen>2026-11-18 18:40:31Z</ContentItemCommonDataLastPublishedWhen>
+  <ContentItemCommonDataVersionStatus>2</ContentItemCommonDataVersionStatus>
+  <ProductFieldCategory>
+    <![CDATA[[{"Identifier":"4c3bece5-3552-461c-b8f0-29f4fca27684"}]]]>
+  </ProductFieldCategory>
+  <ProductFieldDescription>
+    <![CDATA[<p>Pour-over or immersion? With the Hario Switch, you don't have to choose. Flip the valve closed to let your coffee steep, then open it to drain — you get the body of a French press and the clarity of a V60 in one cup.</p><p>It takes standard V60-02 filters, so it fits right into your routine. Heat-resistant glass, silicone base, and nothing to unscrew or lose.</p>]]>
+  </ProductFieldDescription>
+  <ProductFieldImage>
+    <![CDATA[[{"Identifier":"55e37c18-afc4-4cc6-83d6-bbf065d1ad0d"}]]]>
+  </ProductFieldImage>
+  <ProductFieldName>Hario Switch</ProductFieldName>
+  <ProductFieldPrice>39.9</ProductFieldPrice>
+  <ProductSKUCode>ACC-HAR-SWITCH</ProductSKUCode>
+  <ContentItemReferences>
+    <cms.contentitemreference>
+      <ContentItemReferenceGroupGUID>af37d29a-2fc8-4ead-82ef-d5ec6998f910</ContentItemReferenceGroupGUID>
+      <ContentItemReferenceGUID>521d39e1-723d-4239-90e4-aaa5e0c20150</ContentItemReferenceGUID>
+      <ContentItemReferenceSourceCommonDataID>
+        <GUID>1382c33a-af20-42ff-82e6-49cdf3328d43</GUID>
+        <ObjectType>cms.contentitemcommondata</ObjectType>
+      </ContentItemReferenceSourceCommonDataID>
+      <ContentItemReferenceTargetItemID>
+        <CodeName>HarioV60-44abws38</CodeName>
+        <GUID>55e37c18-afc4-4cc6-83d6-bbf065d1ad0d</GUID>
+        <ObjectType>cms.contentitem</ObjectType>
+      </ContentItemReferenceTargetItemID>
+    </cms.contentitemreference>
+  </ContentItemReferences>
+</cms.contentitemcommondata>

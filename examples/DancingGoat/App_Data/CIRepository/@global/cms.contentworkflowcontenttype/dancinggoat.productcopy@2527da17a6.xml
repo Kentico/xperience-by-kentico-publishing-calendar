@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cms.contentworkflowcontenttype>
+  <Parent>
+    <CodeName>DancingGoat.ProductCopy</CodeName>
+    <GUID>008a6392-0438-4124-8a58-66872152d1a3</GUID>
+    <ObjectType>cms.contentworkflow</ObjectType>
+  </Parent>
+  <Bindings>
+    <Binding id="cms.contenttype_DancingGoat.ProductAccessory">
+      <ContentWorkflowContentTypeContentTypeID>
+        <CodeName>DancingGoat.ProductAccessory</CodeName>
+        <GUID>cecc8275-51af-4395-9098-955c371907ad</GUID>
+        <ObjectType>cms.contenttype</ObjectType>
+      </ContentWorkflowContentTypeContentTypeID>
+    </Binding>
+    <Binding id="cms.contenttype_DancingGoat.ProductBrewer">
+      <ContentWorkflowContentTypeContentTypeID>
+        <CodeName>DancingGoat.ProductBrewer</CodeName>
+        <GUID>18ed6af4-38d6-4e4f-a634-1d0c88ec4e7d</GUID>
+        <ObjectType>cms.contenttype</ObjectType>
+      </ContentWorkflowContentTypeContentTypeID>
+    </Binding>
+    <Binding id="cms.contenttype_DancingGoat.ProductCoffee">
+      <ContentWorkflowContentTypeContentTypeID>
+        <CodeName>DancingGoat.ProductCoffee</CodeName>
+        <GUID>7f74020d-0a9e-46fd-bfcc-50b893e94451</GUID>
+        <ObjectType>cms.contenttype</ObjectType>
+      </ContentWorkflowContentTypeContentTypeID>
+    </Binding>
+    <Binding id="cms.contenttype_DancingGoat.ProductGrinder">
+      <ContentWorkflowContentTypeContentTypeID>
+        <CodeName>DancingGoat.ProductGrinder</CodeName>
+        <GUID>fa282f6c-4f05-435e-b520-720d1a5347d7</GUID>
+        <ObjectType>cms.contenttype</ObjectType>
+      </ContentWorkflowContentTypeContentTypeID>
+    </Binding>
+  </Bindings>
+</cms.contentworkflowcontenttype>

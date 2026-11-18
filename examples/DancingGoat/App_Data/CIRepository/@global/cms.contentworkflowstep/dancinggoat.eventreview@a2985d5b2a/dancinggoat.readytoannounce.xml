@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cms.contentworkflowstep>
+  <ContentWorkflowStepDisplayName>Ready to announce</ContentWorkflowStepDisplayName>
+  <ContentWorkflowStepGUID>7faa2c05-c738-4db6-8a6c-2e1fd1ae88ae</ContentWorkflowStepGUID>
+  <ContentWorkflowStepIconClass>xp-bell</ContentWorkflowStepIconClass>
+  <ContentWorkflowStepIsNotificationEnabled>True</ContentWorkflowStepIsNotificationEnabled>
+  <ContentWorkflowStepName>DancingGoat.ReadyToAnnounce</ContentWorkflowStepName>
+  <ContentWorkflowStepOrder>2</ContentWorkflowStepOrder>
+  <ContentWorkflowStepType>3</ContentWorkflowStepType>
+  <ContentWorkflowStepWorkflowID>
+    <CodeName>DancingGoat.EventReview</CodeName>
+    <GUID>f98e5664-b0b8-4830-96f3-8931580f0620</GUID>
+    <ObjectType>cms.contentworkflow</ObjectType>
+  </ContentWorkflowStepWorkflowID>
+</cms.contentworkflowstep>
