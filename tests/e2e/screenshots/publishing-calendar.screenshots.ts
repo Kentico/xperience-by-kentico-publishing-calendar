@@ -30,6 +30,16 @@ test("week view of the busy day", async ({ page }) => {
   await capture(page, "publishing-calendar-week");
 });
 
+test("agenda view", async ({ page }) => {
+  const calendar = new PublishingCalendarPage(page);
+
+  await calendar.openWithItems();
+  await calendar.switchView("agenda");
+  await expect(calendar.agendaItems().first()).toBeVisible();
+
+  await capture(page, "publishing-calendar-agenda");
+});
+
 test("item details", async ({ page }) => {
   const calendar = new PublishingCalendarPage(page);
 

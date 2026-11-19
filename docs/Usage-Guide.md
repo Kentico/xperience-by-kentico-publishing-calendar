@@ -12,11 +12,11 @@ No code changes are needed. Xperience discovers the package's admin module at st
 
 ## Where it appears
 
-The **Publishing calendar** application is in the **Content management** category of the administration (`/admin/publishing-calendar`).
+The **Publishing calendar (Labs)** application is in the **Content management** category of the administration (`/admin/publishing-calendar`).
 
 ## Permissions
 
-The application uses the standard **View** permission. Administrators see it by default. For other roles, open **Role management**, select the role, and grant **View** for **Publishing calendar**.
+The application uses the standard **View** permission. Administrators see it by default. For other roles, open **Role management**, select the role, and grant **View** for **Publishing calendar (Labs)**.
 
 The calendar doesn't apply workspace, channel, or page permissions. A role with **View** on the application sees titles, dates, workflow steps, and last editors of items in all workspaces and channels, including ones the role can't open. Editors opened from the calendar still check the role's permissions.
 

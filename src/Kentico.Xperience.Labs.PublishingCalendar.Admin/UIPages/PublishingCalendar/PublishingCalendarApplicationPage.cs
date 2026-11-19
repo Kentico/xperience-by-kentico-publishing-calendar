@@ -8,7 +8,7 @@ using Kentico.Xperience.Labs.PublishingCalendar.Admin;
     identifier: PublishingCalendarApplicationPage.IDENTIFIER,
     type: typeof(PublishingCalendarApplicationPage),
     slug: "publishing-calendar",
-    name: "Publishing calendar",
+    name: "Publishing calendar (Labs)",
     category: BaseApplicationCategories.CONTENT_MANAGEMENT,
     icon: Icons.Calendar,
     templateName: TemplateNames.SECTION_LAYOUT)]
